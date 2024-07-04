@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ec2-nanez-armando"
 include(":app")
+include(":app")
+ 

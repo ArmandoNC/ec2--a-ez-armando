@@ -2,4 +2,6 @@
 <resources>
 
     <style name="Theme.Ec2nanezarmando" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Ec2ñañezarmando" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
